@@ -13,7 +13,7 @@ Tech Stack
 Setup Steps
 1. Clone the Repository
 git clone https://github.com/Onyinye2023/TeamTaskManagement.git
-cd TeamTaskManagement
+
 
 2. Configure Database
 Open appsettings.json and update your connection string.
