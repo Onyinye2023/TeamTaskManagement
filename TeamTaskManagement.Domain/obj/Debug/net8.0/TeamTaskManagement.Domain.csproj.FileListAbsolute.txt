@@ -1,0 +1,11 @@
+C:\Users\user\OneDrive\Desktop\TeamTaskManagement\TeamTaskManagement.Domain\bin\Debug\net8.0\TeamTaskManagement.Domain.deps.json
+C:\Users\user\OneDrive\Desktop\TeamTaskManagement\TeamTaskManagement.Domain\bin\Debug\net8.0\TeamTaskManagement.Domain.dll
+C:\Users\user\OneDrive\Desktop\TeamTaskManagement\TeamTaskManagement.Domain\bin\Debug\net8.0\TeamTaskManagement.Domain.pdb
+C:\Users\user\OneDrive\Desktop\TeamTaskManagement\TeamTaskManagement.Domain\obj\Debug\net8.0\TeamTaskManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\TeamTaskManagement\TeamTaskManagement.Domain\obj\Debug\net8.0\TeamTaskManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\TeamTaskManagement\TeamTaskManagement.Domain\obj\Debug\net8.0\TeamTaskManagement.Domain.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\TeamTaskManagement\TeamTaskManagement.Domain\obj\Debug\net8.0\TeamTaskManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\TeamTaskManagement\TeamTaskManagement.Domain\obj\Debug\net8.0\TeamTaskManagement.Domain.dll
+C:\Users\user\OneDrive\Desktop\TeamTaskManagement\TeamTaskManagement.Domain\obj\Debug\net8.0\refint\TeamTaskManagement.Domain.dll
+C:\Users\user\OneDrive\Desktop\TeamTaskManagement\TeamTaskManagement.Domain\obj\Debug\net8.0\TeamTaskManagement.Domain.pdb
+C:\Users\user\OneDrive\Desktop\TeamTaskManagement\TeamTaskManagement.Domain\obj\Debug\net8.0\ref\TeamTaskManagement.Domain.dll

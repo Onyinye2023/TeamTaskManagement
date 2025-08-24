@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TeamTaskManagement.Api</name>
+    </assembly>
+    <members>
+        <member name="T:TeamTaskManagement.Api.Controllers.TaskController">
+            <summary>
+            Controller for managing tasks within teams.
+            Provides endpoints for creating, updating, deleting, and retrieving tasks.
+            </summary>
+        </member>
+        <member name="M:TeamTaskManagement.Api.Controllers.TaskController.#ctor(TeamTaskManagement.Application.IServices.ITaskService.ITaskService,Microsoft.Extensions.Logging.ILogger{TeamTaskManagement.Api.Controllers.TaskController})">
+            <summary>
+            Initializes a new instance of the <see cref="T:TeamTaskManagement.Api.Controllers.TaskController"/>.
+            </summary>
+            <param name="taskService">The service used for task operations.</param>
+            <param name="logger">The logger instance for logging information.</param>
+        </member>
+        <member name="M:TeamTaskManagement.Api.Controllers.TaskController.CreateTask(System.Guid,CreateTaskDTO)">
+            <summary>
+            Creates a new task for a given team.
+            </summary>
+            <param name="teamId">The ID of the team.</param>
+            <param name="createTaskDTO">The task details to create.</param>
+            <returns>Returns the created task details with a success message.</returns>
+        </member>
+        <member name="M:TeamTaskManagement.Api.Controllers.TaskController.UpdateTask(System.Guid,TeamTaskManagement.Application.DTOs.UpdateTaskDTO)">
+            <summary>
+            Updates an existing task.
+            </summary>
+            <param name="taskId">The ID of the task to update.</param>
+            <param name="updateTaskDto">The updated task details.</param>
+            <returns>Returns the updated task with a success message.</returns>
+        </member>
+        <member name="M:TeamTaskManagement.Api.Controllers.TaskController.UpdateTaskStatus(System.Guid,TeamTaskManagement.Application.DTOs.UpdateTaskStatusDTO)">
+            <summary>
+            Updates the status of a task.
+            </summary>
+            <param name="taskId">The ID of the task.</param>
+            <param name="updateTaskStatusDto">The new task status details.</param>
+            <returns>Returns the updated task status with a success message.</returns>
+        </member>
+        <member name="M:TeamTaskManagement.Api.Controllers.TaskController.DeleteTask(System.Guid)">
+            <summary>
+            Deletes a task.
+            </summary>
+            <param name="taskId">The ID of the task to delete.</param>
+            <returns>Returns NoContent if the task was deleted successfully.</returns>
+        </member>
+        <member name="M:TeamTaskManagement.Api.Controllers.TaskController.GetTasksByTeam(System.Guid)">
+            <summary>
+            Retrieves all tasks for a specific team.
+            </summary>
+            <param name="teamId">The ID of the team.</param>
+            <returns>Returns a list of tasks for the specified team.</returns>
+        </member>
+        <member name="T:TeamTaskManagement.Api.Controllers.TeamController">
+            <summary>
+            Manages team-related operations such as creating teams and adding users.
+            </summary>
+        </member>
+        <member name="M:TeamTaskManagement.Api.Controllers.TeamController.CreateTeam(TeamTaskManagement.Application.DTOs.CreateTeamDTO)">
+            <summary>
+            Creates a new team for the logged-in user.
+            </summary>
+            <param name="createTeamDTO">The details of the team to create.</param>
+            <returns>A confirmation message and the created team object.</returns>
+            <response code="200">Team created successfully.</response>
+            <response code="400">Invalid request data.</response>
+            <response code="401">User is not authorized.</response>
+        </member>
+        <member name="M:TeamTaskManagement.Api.Controllers.TeamController.AddUserToTeam(System.Guid,TeamTaskManagement.Application.DTOs.InviteUserToTeamDTO)">
+            <summary>
+            Adds a user to an existing team.
+            </summary>
+            <param name="teamId">The ID of the team.</param>
+            <param name="inviteDTO">The details of the user being invited.</param>
+            <returns>A success or failure message.</returns>
+            <response code="200">User added successfully.</response>
+            <response code="400">Invalid request data or user already in team.</response>
+            <response code="401">User is not authorized.</response>
+        </member>
+        <member name="T:TeamTaskManagement.Api.Controllers.UserController.UserController">
+            <summary>
+            Handles all user-related operations such as registration, login, and profile management.
+            </summary>
+        </member>
+        <member name="M:TeamTaskManagement.Api.Controllers.UserController.UserController.RegisterAdmin(TeamTaskManagement.Application.DTOs.RegisterDTO,System.Int32)">
+            <summary>
+            Registers a new admin user.
+            </summary>
+            <param name="adminDto">The admin registration details.</param>
+            <param name="roleId">The role ID to assign to the admin.</param>
+            <returns>A success or failure response with details.</returns>	
+        </member>
+        <member name="M:TeamTaskManagement.Api.Controllers.UserController.UserController.RegisterUser(TeamTaskManagement.Application.DTOs.RegisterDTO,System.Int32)">
+            <summary>
+            Registers a normal user (SuperAdmin only).
+            </summary>
+            <param name="userDto">The user registration details.</param>
+            <param name="roleId">The role ID to assign to the user.</param>
+            <returns>A success or failure response with details.</returns>
+        </member>
+        <member name="M:TeamTaskManagement.Api.Controllers.UserController.UserController.Login(TeamTaskManagement.Application.DTOs.LoginDTO)">
+            <summary>
+            Authenticates a user and returns a JWT token if successful.
+            </summary>
+            <param name="loginDTO">The login details (username and password).</param>
+            <returns>A JWT token and success message if authentication passes.</returns>
+        </member>
+        <member name="M:TeamTaskManagement.Api.Controllers.UserController.UserController.GetCurrentUser">
+            <summary>
+            Retrieves the currently logged-in user's profile information.
+            </summary>
+            <returns>User details or an error if not found.</returns>
+        </member>
+    </members>
+</doc>

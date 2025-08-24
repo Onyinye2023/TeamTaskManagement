@@ -1,0 +1,15 @@
+C:\Users\user\OneDrive\Desktop\TeamTaskManagement\TeamTaskManagement.Application\bin\Debug\net8.0\TeamTaskManagement.Application.deps.json
+C:\Users\user\OneDrive\Desktop\TeamTaskManagement\TeamTaskManagement.Application\bin\Debug\net8.0\TeamTaskManagement.Application.dll
+C:\Users\user\OneDrive\Desktop\TeamTaskManagement\TeamTaskManagement.Application\bin\Debug\net8.0\TeamTaskManagement.Application.pdb
+C:\Users\user\OneDrive\Desktop\TeamTaskManagement\TeamTaskManagement.Application\bin\Debug\net8.0\TeamTaskManagement.Domain.dll
+C:\Users\user\OneDrive\Desktop\TeamTaskManagement\TeamTaskManagement.Application\bin\Debug\net8.0\TeamTaskManagement.Domain.pdb
+C:\Users\user\OneDrive\Desktop\TeamTaskManagement\TeamTaskManagement.Application\obj\Debug\net8.0\TeamTaskManagement.Application.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\TeamTaskManagement\TeamTaskManagement.Application\obj\Debug\net8.0\TeamTaskManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\TeamTaskManagement\TeamTaskManagement.Application\obj\Debug\net8.0\TeamTaskManagement.Application.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\TeamTaskManagement\TeamTaskManagement.Application\obj\Debug\net8.0\TeamTaskManagement.Application.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\TeamTaskManagement\TeamTaskManagement.Application\obj\Debug\net8.0\TeamTaskManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\TeamTaskManagement\TeamTaskManagement.Application\obj\Debug\net8.0\TeamTask.631A92F8.Up2Date
+C:\Users\user\OneDrive\Desktop\TeamTaskManagement\TeamTaskManagement.Application\obj\Debug\net8.0\TeamTaskManagement.Application.dll
+C:\Users\user\OneDrive\Desktop\TeamTaskManagement\TeamTaskManagement.Application\obj\Debug\net8.0\refint\TeamTaskManagement.Application.dll
+C:\Users\user\OneDrive\Desktop\TeamTaskManagement\TeamTaskManagement.Application\obj\Debug\net8.0\TeamTaskManagement.Application.pdb
+C:\Users\user\OneDrive\Desktop\TeamTaskManagement\TeamTaskManagement.Application\obj\Debug\net8.0\ref\TeamTaskManagement.Application.dll

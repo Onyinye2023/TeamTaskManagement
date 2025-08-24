@@ -1,0 +1,631 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\Desktop\\TeamTaskManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B06F9B68-60A9-4E97-85FC-D48C55038800}|TeamTaskManagement.Infrastructure\\TeamTaskManagement.Infrastructure.csproj|c:\\users\\user\\onedrive\\desktop\\teamtaskmanagement\\teamtaskmanagement.infrastructure\\services\\taskservice\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B06F9B68-60A9-4E97-85FC-D48C55038800}|TeamTaskManagement.Infrastructure\\TeamTaskManagement.Infrastructure.csproj|solutionrelative:teamtaskmanagement.infrastructure\\services\\taskservice\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F4B030-26FE-49CA-A4F3-B82F0B06D48C}|TeamTaskManagement.Domain\\TeamTaskManagement.Domain.csproj|c:\\users\\user\\onedrive\\desktop\\teamtaskmanagement\\teamtaskmanagement.domain\\entities\\projecttask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51F4B030-26FE-49CA-A4F3-B82F0B06D48C}|TeamTaskManagement.Domain\\TeamTaskManagement.Domain.csproj|solutionrelative:teamtaskmanagement.domain\\entities\\projecttask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F4B030-26FE-49CA-A4F3-B82F0B06D48C}|TeamTaskManagement.Domain\\TeamTaskManagement.Domain.csproj|c:\\users\\user\\onedrive\\desktop\\teamtaskmanagement\\teamtaskmanagement.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51F4B030-26FE-49CA-A4F3-B82F0B06D48C}|TeamTaskManagement.Domain\\TeamTaskManagement.Domain.csproj|solutionrelative:teamtaskmanagement.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04705113-40D2-42D7-A96E-303B95A6CD61}|TeamTaskManagement.Api\\TeamTaskManagement.Api.csproj|c:\\users\\user\\onedrive\\desktop\\teamtaskmanagement\\teamtaskmanagement.api\\controllers\\taskcontroller\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04705113-40D2-42D7-A96E-303B95A6CD61}|TeamTaskManagement.Api\\TeamTaskManagement.Api.csproj|solutionrelative:teamtaskmanagement.api\\controllers\\taskcontroller\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04705113-40D2-42D7-A96E-303B95A6CD61}|TeamTaskManagement.Api\\TeamTaskManagement.Api.csproj|c:\\users\\user\\onedrive\\desktop\\teamtaskmanagement\\teamtaskmanagement.api\\controllers\\teamcontroller\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04705113-40D2-42D7-A96E-303B95A6CD61}|TeamTaskManagement.Api\\TeamTaskManagement.Api.csproj|solutionrelative:teamtaskmanagement.api\\controllers\\teamcontroller\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B06F9B68-60A9-4E97-85FC-D48C55038800}|TeamTaskManagement.Infrastructure\\TeamTaskManagement.Infrastructure.csproj|c:\\users\\user\\onedrive\\desktop\\teamtaskmanagement\\teamtaskmanagement.infrastructure\\services\\userservice\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B06F9B68-60A9-4E97-85FC-D48C55038800}|TeamTaskManagement.Infrastructure\\TeamTaskManagement.Infrastructure.csproj|solutionrelative:teamtaskmanagement.infrastructure\\services\\userservice\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B06F9B68-60A9-4E97-85FC-D48C55038800}|TeamTaskManagement.Infrastructure\\TeamTaskManagement.Infrastructure.csproj|c:\\users\\user\\onedrive\\desktop\\teamtaskmanagement\\teamtaskmanagement.infrastructure\\services\\teamservice\\teamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B06F9B68-60A9-4E97-85FC-D48C55038800}|TeamTaskManagement.Infrastructure\\TeamTaskManagement.Infrastructure.csproj|solutionrelative:teamtaskmanagement.infrastructure\\services\\teamservice\\teamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B06F9B68-60A9-4E97-85FC-D48C55038800}|TeamTaskManagement.Infrastructure\\TeamTaskManagement.Infrastructure.csproj|c:\\users\\user\\onedrive\\desktop\\teamtaskmanagement\\teamtaskmanagement.infrastructure\\repositories\\userrepo\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B06F9B68-60A9-4E97-85FC-D48C55038800}|TeamTaskManagement.Infrastructure\\TeamTaskManagement.Infrastructure.csproj|solutionrelative:teamtaskmanagement.infrastructure\\repositories\\userrepo\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B06F9B68-60A9-4E97-85FC-D48C55038800}|TeamTaskManagement.Infrastructure\\TeamTaskManagement.Infrastructure.csproj|c:\\users\\user\\onedrive\\desktop\\teamtaskmanagement\\teamtaskmanagement.infrastructure\\repositories\\teamrepo\\teamrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B06F9B68-60A9-4E97-85FC-D48C55038800}|TeamTaskManagement.Infrastructure\\TeamTaskManagement.Infrastructure.csproj|solutionrelative:teamtaskmanagement.infrastructure\\repositories\\teamrepo\\teamrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B06F9B68-60A9-4E97-85FC-D48C55038800}|TeamTaskManagement.Infrastructure\\TeamTaskManagement.Infrastructure.csproj|c:\\users\\user\\onedrive\\desktop\\teamtaskmanagement\\teamtaskmanagement.infrastructure\\repositories\\taskrepo\\taskrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B06F9B68-60A9-4E97-85FC-D48C55038800}|TeamTaskManagement.Infrastructure\\TeamTaskManagement.Infrastructure.csproj|solutionrelative:teamtaskmanagement.infrastructure\\repositories\\taskrepo\\taskrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B06F9B68-60A9-4E97-85FC-D48C55038800}|TeamTaskManagement.Infrastructure\\TeamTaskManagement.Infrastructure.csproj|c:\\users\\user\\onedrive\\desktop\\teamtaskmanagement\\teamtaskmanagement.infrastructure\\migrations\\20250824165234_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B06F9B68-60A9-4E97-85FC-D48C55038800}|TeamTaskManagement.Infrastructure\\TeamTaskManagement.Infrastructure.csproj|solutionrelative:teamtaskmanagement.infrastructure\\migrations\\20250824165234_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B06F9B68-60A9-4E97-85FC-D48C55038800}|TeamTaskManagement.Infrastructure\\TeamTaskManagement.Infrastructure.csproj|c:\\users\\user\\onedrive\\desktop\\teamtaskmanagement\\teamtaskmanagement.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B06F9B68-60A9-4E97-85FC-D48C55038800}|TeamTaskManagement.Infrastructure\\TeamTaskManagement.Infrastructure.csproj|solutionrelative:teamtaskmanagement.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F4B030-26FE-49CA-A4F3-B82F0B06D48C}|TeamTaskManagement.Domain\\TeamTaskManagement.Domain.csproj|c:\\users\\user\\onedrive\\desktop\\teamtaskmanagement\\teamtaskmanagement.domain\\enums\\taskstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51F4B030-26FE-49CA-A4F3-B82F0B06D48C}|TeamTaskManagement.Domain\\TeamTaskManagement.Domain.csproj|solutionrelative:teamtaskmanagement.domain\\enums\\taskstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F4B030-26FE-49CA-A4F3-B82F0B06D48C}|TeamTaskManagement.Domain\\TeamTaskManagement.Domain.csproj|c:\\users\\user\\onedrive\\desktop\\teamtaskmanagement\\teamtaskmanagement.domain\\entities\\teamuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51F4B030-26FE-49CA-A4F3-B82F0B06D48C}|TeamTaskManagement.Domain\\TeamTaskManagement.Domain.csproj|solutionrelative:teamtaskmanagement.domain\\entities\\teamuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F4B030-26FE-49CA-A4F3-B82F0B06D48C}|TeamTaskManagement.Domain\\TeamTaskManagement.Domain.csproj|c:\\users\\user\\onedrive\\desktop\\teamtaskmanagement\\teamtaskmanagement.domain\\entities\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51F4B030-26FE-49CA-A4F3-B82F0B06D48C}|TeamTaskManagement.Domain\\TeamTaskManagement.Domain.csproj|solutionrelative:teamtaskmanagement.domain\\entities\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F4B030-26FE-49CA-A4F3-B82F0B06D48C}|TeamTaskManagement.Domain\\TeamTaskManagement.Domain.csproj|c:\\users\\user\\onedrive\\desktop\\teamtaskmanagement\\teamtaskmanagement.domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51F4B030-26FE-49CA-A4F3-B82F0B06D48C}|TeamTaskManagement.Domain\\TeamTaskManagement.Domain.csproj|solutionrelative:teamtaskmanagement.domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{577D8728-5F69-4B9D-9601-55662B93DE87}|TeamTaskManagement.Application\\TeamTaskManagement.Application.csproj|c:\\users\\user\\onedrive\\desktop\\teamtaskmanagement\\teamtaskmanagement.application\\mappingprofiles\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{577D8728-5F69-4B9D-9601-55662B93DE87}|TeamTaskManagement.Application\\TeamTaskManagement.Application.csproj|solutionrelative:teamtaskmanagement.application\\mappingprofiles\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{577D8728-5F69-4B9D-9601-55662B93DE87}|TeamTaskManagement.Application\\TeamTaskManagement.Application.csproj|c:\\users\\user\\onedrive\\desktop\\teamtaskmanagement\\teamtaskmanagement.application\\iservices\\iteamservice\\iteamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{577D8728-5F69-4B9D-9601-55662B93DE87}|TeamTaskManagement.Application\\TeamTaskManagement.Application.csproj|solutionrelative:teamtaskmanagement.application\\iservices\\iteamservice\\iteamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{577D8728-5F69-4B9D-9601-55662B93DE87}|TeamTaskManagement.Application\\TeamTaskManagement.Application.csproj|c:\\users\\user\\onedrive\\desktop\\teamtaskmanagement\\teamtaskmanagement.application\\iservices\\itaskservice\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{577D8728-5F69-4B9D-9601-55662B93DE87}|TeamTaskManagement.Application\\TeamTaskManagement.Application.csproj|solutionrelative:teamtaskmanagement.application\\iservices\\itaskservice\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{577D8728-5F69-4B9D-9601-55662B93DE87}|TeamTaskManagement.Application\\TeamTaskManagement.Application.csproj|c:\\users\\user\\onedrive\\desktop\\teamtaskmanagement\\teamtaskmanagement.application\\irepositories\\iteamrepo\\iteamrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{577D8728-5F69-4B9D-9601-55662B93DE87}|TeamTaskManagement.Application\\TeamTaskManagement.Application.csproj|solutionrelative:teamtaskmanagement.application\\irepositories\\iteamrepo\\iteamrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{577D8728-5F69-4B9D-9601-55662B93DE87}|TeamTaskManagement.Application\\TeamTaskManagement.Application.csproj|c:\\users\\user\\onedrive\\desktop\\teamtaskmanagement\\teamtaskmanagement.application\\irepositories\\itaskrepo\\itaskrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{577D8728-5F69-4B9D-9601-55662B93DE87}|TeamTaskManagement.Application\\TeamTaskManagement.Application.csproj|solutionrelative:teamtaskmanagement.application\\irepositories\\itaskrepo\\itaskrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{577D8728-5F69-4B9D-9601-55662B93DE87}|TeamTaskManagement.Application\\TeamTaskManagement.Application.csproj|c:\\users\\user\\onedrive\\desktop\\teamtaskmanagement\\teamtaskmanagement.application\\dtos\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{577D8728-5F69-4B9D-9601-55662B93DE87}|TeamTaskManagement.Application\\TeamTaskManagement.Application.csproj|solutionrelative:teamtaskmanagement.application\\dtos\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{577D8728-5F69-4B9D-9601-55662B93DE87}|TeamTaskManagement.Application\\TeamTaskManagement.Application.csproj|c:\\users\\user\\onedrive\\desktop\\teamtaskmanagement\\teamtaskmanagement.application\\dtos\\updatetaskstatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{577D8728-5F69-4B9D-9601-55662B93DE87}|TeamTaskManagement.Application\\TeamTaskManagement.Application.csproj|solutionrelative:teamtaskmanagement.application\\dtos\\updatetaskstatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{577D8728-5F69-4B9D-9601-55662B93DE87}|TeamTaskManagement.Application\\TeamTaskManagement.Application.csproj|c:\\users\\user\\onedrive\\desktop\\teamtaskmanagement\\teamtaskmanagement.application\\dtos\\updatetaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{577D8728-5F69-4B9D-9601-55662B93DE87}|TeamTaskManagement.Application\\TeamTaskManagement.Application.csproj|solutionrelative:teamtaskmanagement.application\\dtos\\updatetaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{577D8728-5F69-4B9D-9601-55662B93DE87}|TeamTaskManagement.Application\\TeamTaskManagement.Application.csproj|c:\\users\\user\\onedrive\\desktop\\teamtaskmanagement\\teamtaskmanagement.application\\dtos\\teamresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{577D8728-5F69-4B9D-9601-55662B93DE87}|TeamTaskManagement.Application\\TeamTaskManagement.Application.csproj|solutionrelative:teamtaskmanagement.application\\dtos\\teamresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{577D8728-5F69-4B9D-9601-55662B93DE87}|TeamTaskManagement.Application\\TeamTaskManagement.Application.csproj|c:\\users\\user\\onedrive\\desktop\\teamtaskmanagement\\teamtaskmanagement.application\\dtos\\teamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{577D8728-5F69-4B9D-9601-55662B93DE87}|TeamTaskManagement.Application\\TeamTaskManagement.Application.csproj|solutionrelative:teamtaskmanagement.application\\dtos\\teamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{577D8728-5F69-4B9D-9601-55662B93DE87}|TeamTaskManagement.Application\\TeamTaskManagement.Application.csproj|c:\\users\\user\\onedrive\\desktop\\teamtaskmanagement\\teamtaskmanagement.application\\dtos\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{577D8728-5F69-4B9D-9601-55662B93DE87}|TeamTaskManagement.Application\\TeamTaskManagement.Application.csproj|solutionrelative:teamtaskmanagement.application\\dtos\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{577D8728-5F69-4B9D-9601-55662B93DE87}|TeamTaskManagement.Application\\TeamTaskManagement.Application.csproj|c:\\users\\user\\onedrive\\desktop\\teamtaskmanagement\\teamtaskmanagement.application\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{577D8728-5F69-4B9D-9601-55662B93DE87}|TeamTaskManagement.Application\\TeamTaskManagement.Application.csproj|solutionrelative:teamtaskmanagement.application\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{577D8728-5F69-4B9D-9601-55662B93DE87}|TeamTaskManagement.Application\\TeamTaskManagement.Application.csproj|c:\\users\\user\\onedrive\\desktop\\teamtaskmanagement\\teamtaskmanagement.application\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{577D8728-5F69-4B9D-9601-55662B93DE87}|TeamTaskManagement.Application\\TeamTaskManagement.Application.csproj|solutionrelative:teamtaskmanagement.application\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{577D8728-5F69-4B9D-9601-55662B93DE87}|TeamTaskManagement.Application\\TeamTaskManagement.Application.csproj|c:\\users\\user\\onedrive\\desktop\\teamtaskmanagement\\teamtaskmanagement.application\\dtos\\createtaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{577D8728-5F69-4B9D-9601-55662B93DE87}|TeamTaskManagement.Application\\TeamTaskManagement.Application.csproj|solutionrelative:teamtaskmanagement.application\\dtos\\createtaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04705113-40D2-42D7-A96E-303B95A6CD61}|TeamTaskManagement.Api\\TeamTaskManagement.Api.csproj|c:\\users\\user\\onedrive\\desktop\\teamtaskmanagement\\teamtaskmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04705113-40D2-42D7-A96E-303B95A6CD61}|TeamTaskManagement.Api\\TeamTaskManagement.Api.csproj|solutionrelative:teamtaskmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04705113-40D2-42D7-A96E-303B95A6CD61}|TeamTaskManagement.Api\\TeamTaskManagement.Api.csproj|c:\\users\\user\\onedrive\\desktop\\teamtaskmanagement\\teamtaskmanagement.api\\extensions\\taskmanagementextensionregistrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04705113-40D2-42D7-A96E-303B95A6CD61}|TeamTaskManagement.Api\\TeamTaskManagement.Api.csproj|solutionrelative:teamtaskmanagement.api\\extensions\\taskmanagementextensionregistrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04705113-40D2-42D7-A96E-303B95A6CD61}|TeamTaskManagement.Api\\TeamTaskManagement.Api.csproj|c:\\users\\user\\onedrive\\desktop\\teamtaskmanagement\\teamtaskmanagement.api\\controllers\\usercontroller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04705113-40D2-42D7-A96E-303B95A6CD61}|TeamTaskManagement.Api\\TeamTaskManagement.Api.csproj|solutionrelative:teamtaskmanagement.api\\controllers\\usercontroller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{577D8728-5F69-4B9D-9601-55662B93DE87}|TeamTaskManagement.Application\\TeamTaskManagement.Application.csproj|c:\\users\\user\\onedrive\\desktop\\teamtaskmanagement\\teamtaskmanagement.application\\dtos\\createteamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{577D8728-5F69-4B9D-9601-55662B93DE87}|TeamTaskManagement.Application\\TeamTaskManagement.Application.csproj|solutionrelative:teamtaskmanagement.application\\dtos\\createteamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04705113-40D2-42D7-A96E-303B95A6CD61}|TeamTaskManagement.Api\\TeamTaskManagement.Api.csproj|c:\\users\\user\\onedrive\\desktop\\teamtaskmanagement\\teamtaskmanagement.api\\teamtaskmanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{04705113-40D2-42D7-A96E-303B95A6CD61}|TeamTaskManagement.Api\\TeamTaskManagement.Api.csproj|solutionrelative:teamtaskmanagement.api\\teamtaskmanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\TeamTaskManagement\\TeamTaskManagement.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TeamTaskManagement.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\TeamTaskManagement\\TeamTaskManagement.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "TeamTaskManagement.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAzwDEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T16:27:32.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250824165234_FirstMigration.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\TeamTaskManagement\\TeamTaskManagement.Infrastructure\\Migrations\\20250824165234_FirstMigration.cs",
+              "RelativeDocumentMoniker": "TeamTaskManagement.Infrastructure\\Migrations\\20250824165234_FirstMigration.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\TeamTaskManagement\\TeamTaskManagement.Infrastructure\\Migrations\\20250824165234_FirstMigration.cs",
+              "RelativeToolTip": "TeamTaskManagement.Infrastructure\\Migrations\\20250824165234_FirstMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T16:52:35.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TaskRepo.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\TeamTaskManagement\\TeamTaskManagement.Infrastructure\\Repositories\\TaskRepo\\TaskRepo.cs",
+              "RelativeDocumentMoniker": "TeamTaskManagement.Infrastructure\\Repositories\\TaskRepo\\TaskRepo.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\TeamTaskManagement\\TeamTaskManagement.Infrastructure\\Repositories\\TaskRepo\\TaskRepo.cs",
+              "RelativeToolTip": "TeamTaskManagement.Infrastructure\\Repositories\\TaskRepo\\TaskRepo.cs",
+              "ViewState": "AQIAAOkAAAAAAAAAAAAswJcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T21:01:23.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\TeamTaskManagement\\TeamTaskManagement.Infrastructure\\Services\\TaskService\\TaskService.cs",
+              "RelativeDocumentMoniker": "TeamTaskManagement.Infrastructure\\Services\\TaskService\\TaskService.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\TeamTaskManagement\\TeamTaskManagement.Infrastructure\\Services\\TaskService\\TaskService.cs",
+              "RelativeToolTip": "TeamTaskManagement.Infrastructure\\Services\\TaskService\\TaskService.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAqwFwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T21:05:57.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TeamController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\TeamTaskManagement\\TeamTaskManagement.Api\\Controllers\\TeamController\\TeamController.cs",
+              "RelativeDocumentMoniker": "TeamTaskManagement.Api\\Controllers\\TeamController\\TeamController.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\TeamTaskManagement\\TeamTaskManagement.Api\\Controllers\\TeamController\\TeamController.cs",
+              "RelativeToolTip": "TeamTaskManagement.Api\\Controllers\\TeamController\\TeamController.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAuwEoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T17:15:44.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\TeamTaskManagement\\TeamTaskManagement.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "TeamTaskManagement.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\TeamTaskManagement\\TeamTaskManagement.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "TeamTaskManagement.Domain\\Entities\\User.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAzwAkAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T22:15:00.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TaskStatus.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\TeamTaskManagement\\TeamTaskManagement.Domain\\Enums\\TaskStatus.cs",
+              "RelativeDocumentMoniker": "TeamTaskManagement.Domain\\Enums\\TaskStatus.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\TeamTaskManagement\\TeamTaskManagement.Domain\\Enums\\TaskStatus.cs",
+              "RelativeToolTip": "TeamTaskManagement.Domain\\Enums\\TaskStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T21:24:21.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProjectTask.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\TeamTaskManagement\\TeamTaskManagement.Domain\\Entities\\ProjectTask.cs",
+              "RelativeDocumentMoniker": "TeamTaskManagement.Domain\\Entities\\ProjectTask.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\TeamTaskManagement\\TeamTaskManagement.Domain\\Entities\\ProjectTask.cs",
+              "RelativeToolTip": "TeamTaskManagement.Domain\\Entities\\ProjectTask.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T21:35:03.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\TeamTaskManagement\\TeamTaskManagement.Api\\Controllers\\TaskController\\TaskController.cs",
+              "RelativeDocumentMoniker": "TeamTaskManagement.Api\\Controllers\\TaskController\\TaskController.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\TeamTaskManagement\\TeamTaskManagement.Api\\Controllers\\TaskController\\TaskController.cs",
+              "RelativeToolTip": "TeamTaskManagement.Api\\Controllers\\TaskController\\TaskController.cs",
+              "ViewState": "AQIAAJoAAAAAAAAAAAAkwCcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T20:54:48.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserRepo.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\TeamTaskManagement\\TeamTaskManagement.Infrastructure\\Repositories\\UserRepo\\UserRepo.cs",
+              "RelativeDocumentMoniker": "TeamTaskManagement.Infrastructure\\Repositories\\UserRepo\\UserRepo.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\TeamTaskManagement\\TeamTaskManagement.Infrastructure\\Repositories\\UserRepo\\UserRepo.cs",
+              "RelativeToolTip": "TeamTaskManagement.Infrastructure\\Repositories\\UserRepo\\UserRepo.cs",
+              "ViewState": "AQIAANsAAAAAAAAAAAAswHYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T19:51:15.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TeamService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\TeamTaskManagement\\TeamTaskManagement.Infrastructure\\Services\\TeamService\\TeamService.cs",
+              "RelativeDocumentMoniker": "TeamTaskManagement.Infrastructure\\Services\\TeamService\\TeamService.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\TeamTaskManagement\\TeamTaskManagement.Infrastructure\\Services\\TeamService\\TeamService.cs",
+              "RelativeToolTip": "TeamTaskManagement.Infrastructure\\Services\\TeamService\\TeamService.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAgwCMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T22:12:13.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\TeamTaskManagement\\TeamTaskManagement.Infrastructure\\Services\\UserService\\UserService.cs",
+              "RelativeDocumentMoniker": "TeamTaskManagement.Infrastructure\\Services\\UserService\\UserService.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\TeamTaskManagement\\TeamTaskManagement.Infrastructure\\Services\\UserService\\UserService.cs",
+              "RelativeToolTip": "TeamTaskManagement.Infrastructure\\Services\\UserService\\UserService.cs",
+              "ViewState": "AQIAAAUBAAAAAAAAAAAcwO8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T22:13:39.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TeamUser.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\TeamTaskManagement\\TeamTaskManagement.Domain\\Entities\\TeamUser.cs",
+              "RelativeDocumentMoniker": "TeamTaskManagement.Domain\\Entities\\TeamUser.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\TeamTaskManagement\\TeamTaskManagement.Domain\\Entities\\TeamUser.cs",
+              "RelativeToolTip": "TeamTaskManagement.Domain\\Entities\\TeamUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T18:10:49.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\TeamTaskManagement\\TeamTaskManagement.Domain\\Entities\\Team.cs",
+              "RelativeDocumentMoniker": "TeamTaskManagement.Domain\\Entities\\Team.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\TeamTaskManagement\\TeamTaskManagement.Domain\\Entities\\Team.cs",
+              "RelativeToolTip": "TeamTaskManagement.Domain\\Entities\\Team.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T22:10:12.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\TeamTaskManagement\\TeamTaskManagement.Domain\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "TeamTaskManagement.Domain\\Entities\\Role.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\TeamTaskManagement\\TeamTaskManagement.Domain\\Entities\\Role.cs",
+              "RelativeToolTip": "TeamTaskManagement.Domain\\Entities\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T16:45:40.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TeamRepo.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\TeamTaskManagement\\TeamTaskManagement.Infrastructure\\Repositories\\TeamRepo\\TeamRepo.cs",
+              "RelativeDocumentMoniker": "TeamTaskManagement.Infrastructure\\Repositories\\TeamRepo\\TeamRepo.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\TeamTaskManagement\\TeamTaskManagement.Infrastructure\\Repositories\\TeamRepo\\TeamRepo.cs",
+              "RelativeToolTip": "TeamTaskManagement.Infrastructure\\Repositories\\TeamRepo\\TeamRepo.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAgwFkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T22:11:25.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MappingProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\TeamTaskManagement\\TeamTaskManagement.Application\\MappingProfiles\\MappingProfiles.cs",
+              "RelativeDocumentMoniker": "TeamTaskManagement.Application\\MappingProfiles\\MappingProfiles.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\TeamTaskManagement\\TeamTaskManagement.Application\\MappingProfiles\\MappingProfiles.cs",
+              "RelativeToolTip": "TeamTaskManagement.Application\\MappingProfiles\\MappingProfiles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T20:59:49.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ITeamService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\TeamTaskManagement\\TeamTaskManagement.Application\\IServices\\ITeamService\\ITeamService.cs",
+              "RelativeDocumentMoniker": "TeamTaskManagement.Application\\IServices\\ITeamService\\ITeamService.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\TeamTaskManagement\\TeamTaskManagement.Application\\IServices\\ITeamService\\ITeamService.cs",
+              "RelativeToolTip": "TeamTaskManagement.Application\\IServices\\ITeamService\\ITeamService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T19:05:33.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ITaskService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\TeamTaskManagement\\TeamTaskManagement.Application\\IServices\\ITaskService\\ITaskService.cs",
+              "RelativeDocumentMoniker": "TeamTaskManagement.Application\\IServices\\ITaskService\\ITaskService.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\TeamTaskManagement\\TeamTaskManagement.Application\\IServices\\ITaskService\\ITaskService.cs",
+              "RelativeToolTip": "TeamTaskManagement.Application\\IServices\\ITaskService\\ITaskService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T21:05:23.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ITeamRepo.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\TeamTaskManagement\\TeamTaskManagement.Application\\IRepositories\\ITeamRepo\\ITeamRepo.cs",
+              "RelativeDocumentMoniker": "TeamTaskManagement.Application\\IRepositories\\ITeamRepo\\ITeamRepo.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\TeamTaskManagement\\TeamTaskManagement.Application\\IRepositories\\ITeamRepo\\ITeamRepo.cs",
+              "RelativeToolTip": "TeamTaskManagement.Application\\IRepositories\\ITeamRepo\\ITeamRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T19:45:47.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TaskDTO.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\TeamTaskManagement\\TeamTaskManagement.Application\\DTOs\\TaskDTO.cs",
+              "RelativeDocumentMoniker": "TeamTaskManagement.Application\\DTOs\\TaskDTO.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\TeamTaskManagement\\TeamTaskManagement.Application\\DTOs\\TaskDTO.cs",
+              "RelativeToolTip": "TeamTaskManagement.Application\\DTOs\\TaskDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T21:18:38.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UpdateTaskStatusDTO.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\TeamTaskManagement\\TeamTaskManagement.Application\\DTOs\\UpdateTaskStatusDTO.cs",
+              "RelativeDocumentMoniker": "TeamTaskManagement.Application\\DTOs\\UpdateTaskStatusDTO.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\TeamTaskManagement\\TeamTaskManagement.Application\\DTOs\\UpdateTaskStatusDTO.cs",
+              "RelativeToolTip": "TeamTaskManagement.Application\\DTOs\\UpdateTaskStatusDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T21:17:39.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UpdateTaskDTO.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\TeamTaskManagement\\TeamTaskManagement.Application\\DTOs\\UpdateTaskDTO.cs",
+              "RelativeDocumentMoniker": "TeamTaskManagement.Application\\DTOs\\UpdateTaskDTO.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\TeamTaskManagement\\TeamTaskManagement.Application\\DTOs\\UpdateTaskDTO.cs",
+              "RelativeToolTip": "TeamTaskManagement.Application\\DTOs\\UpdateTaskDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T20:50:55.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TeamResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\TeamTaskManagement\\TeamTaskManagement.Application\\DTOs\\TeamResponseDTO.cs",
+              "RelativeDocumentMoniker": "TeamTaskManagement.Application\\DTOs\\TeamResponseDTO.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\TeamTaskManagement\\TeamTaskManagement.Application\\DTOs\\TeamResponseDTO.cs",
+              "RelativeToolTip": "TeamTaskManagement.Application\\DTOs\\TeamResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T22:10:52.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TeamDTO.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\TeamTaskManagement\\TeamTaskManagement.Application\\DTOs\\TeamDTO.cs",
+              "RelativeDocumentMoniker": "TeamTaskManagement.Application\\DTOs\\TeamDTO.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\TeamTaskManagement\\TeamTaskManagement.Application\\DTOs\\TeamDTO.cs",
+              "RelativeToolTip": "TeamTaskManagement.Application\\DTOs\\TeamDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T22:10:34.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\TeamTaskManagement\\TeamTaskManagement.Application\\DTOs\\ResponseDTO.cs",
+              "RelativeDocumentMoniker": "TeamTaskManagement.Application\\DTOs\\ResponseDTO.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\TeamTaskManagement\\TeamTaskManagement.Application\\DTOs\\ResponseDTO.cs",
+              "RelativeToolTip": "TeamTaskManagement.Application\\DTOs\\ResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T19:44:33.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\TeamTaskManagement\\TeamTaskManagement.Application\\DTOs\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "TeamTaskManagement.Application\\DTOs\\RegisterDTO.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\TeamTaskManagement\\TeamTaskManagement.Application\\DTOs\\RegisterDTO.cs",
+              "RelativeToolTip": "TeamTaskManagement.Application\\DTOs\\RegisterDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T19:44:24.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ITaskRepo.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\TeamTaskManagement\\TeamTaskManagement.Application\\IRepositories\\ITaskRepo\\ITaskRepo.cs",
+              "RelativeDocumentMoniker": "TeamTaskManagement.Application\\IRepositories\\ITaskRepo\\ITaskRepo.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\TeamTaskManagement\\TeamTaskManagement.Application\\IRepositories\\ITaskRepo\\ITaskRepo.cs",
+              "RelativeToolTip": "TeamTaskManagement.Application\\IRepositories\\ITaskRepo\\ITaskRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T21:00:55.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\TeamTaskManagement\\TeamTaskManagement.Application\\DTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "TeamTaskManagement.Application\\DTOs\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\TeamTaskManagement\\TeamTaskManagement.Application\\DTOs\\LoginDTO.cs",
+              "RelativeToolTip": "TeamTaskManagement.Application\\DTOs\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T19:44:09.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "TaskManagementExtensionRegistrar.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\TeamTaskManagement\\TeamTaskManagement.Api\\Extensions\\TaskManagementExtensionRegistrar.cs",
+              "RelativeDocumentMoniker": "TeamTaskManagement.Api\\Extensions\\TaskManagementExtensionRegistrar.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\TeamTaskManagement\\TeamTaskManagement.Api\\Extensions\\TaskManagementExtensionRegistrar.cs",
+              "RelativeToolTip": "TeamTaskManagement.Api\\Extensions\\TaskManagementExtensionRegistrar.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAgwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T17:05:08.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\TeamTaskManagement\\TeamTaskManagement.Api\\Controllers\\UserController\\UserController.cs",
+              "RelativeDocumentMoniker": "TeamTaskManagement.Api\\Controllers\\UserController\\UserController.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\TeamTaskManagement\\TeamTaskManagement.Api\\Controllers\\UserController\\UserController.cs",
+              "RelativeToolTip": "TeamTaskManagement.Api\\Controllers\\UserController\\UserController.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAowAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T22:14:21.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\TeamTaskManagement\\TeamTaskManagement.Api\\Program.cs",
+              "RelativeDocumentMoniker": "TeamTaskManagement.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\TeamTaskManagement\\TeamTaskManagement.Api\\Program.cs",
+              "RelativeToolTip": "TeamTaskManagement.Api\\Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T17:01:51.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CreateTaskDTO.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\TeamTaskManagement\\TeamTaskManagement.Application\\DTOs\\CreateTaskDTO.cs",
+              "RelativeDocumentMoniker": "TeamTaskManagement.Application\\DTOs\\CreateTaskDTO.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\TeamTaskManagement\\TeamTaskManagement.Application\\DTOs\\CreateTaskDTO.cs",
+              "RelativeToolTip": "TeamTaskManagement.Application\\DTOs\\CreateTaskDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T22:18:36.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CreateTeamDTO.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\TeamTaskManagement\\TeamTaskManagement.Application\\DTOs\\CreateTeamDTO.cs",
+              "RelativeDocumentMoniker": "TeamTaskManagement.Application\\DTOs\\CreateTeamDTO.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\TeamTaskManagement\\TeamTaskManagement.Application\\DTOs\\CreateTeamDTO.cs",
+              "RelativeToolTip": "TeamTaskManagement.Application\\DTOs\\CreateTeamDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T18:09:00.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "TeamTaskManagement.Api",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\TeamTaskManagement\\TeamTaskManagement.Api\\TeamTaskManagement.Api.csproj",
+              "RelativeDocumentMoniker": "TeamTaskManagement.Api\\TeamTaskManagement.Api.csproj",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\TeamTaskManagement\\TeamTaskManagement.Api\\TeamTaskManagement.Api.csproj",
+              "RelativeToolTip": "TeamTaskManagement.Api\\TeamTaskManagement.Api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-24T17:03:18.611Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
